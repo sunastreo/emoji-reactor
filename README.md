@@ -10,7 +10,7 @@ Real-time camera-based emotion detection that displays corresponding emojis base
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-```bash
+bash
 git clone https://github.com/yourusername/emoji-reactor.git
 cd emoji-reactor
 
