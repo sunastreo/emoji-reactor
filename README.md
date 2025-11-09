@@ -60,6 +60,7 @@ emoji-reactor/
 ## 👨‍💻 Author
 
 Dianka
+
 GitHub: @sunastreo
 
 
