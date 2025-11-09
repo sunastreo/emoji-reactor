@@ -10,19 +10,22 @@ Real-time camera-based emotion detection that displays corresponding emojis base
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-bash
+```bash
 git clone https://github.com/yourusername/emoji-reactor.git
 cd emoji-reactor
+```
 
 2. **Install dependencies**
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
-3. Run the application
+3. **Run the application**
 
 ```bash
-python emoji_reactor.py```
+python emoji_reactor.py
+```
 
 ## 🎮 How to Use
 Smile 😊 - Shows smiling emoji
@@ -38,26 +41,25 @@ Press 'q' - Quit the application
 Press 'd' - Toggle landmark display
 
 ## 🛠️ Requirements
+
 Python 3.8+
-
 Webcam
-
 Required packages: see requirements.txt
 
 ## 📁 Project Structure
 
 emoji-reactor/
-├── emoji_reactor.py    # Main application
-├── requirements.txt    # Python dependencies
-├── README.md          # This file
-└── images/            # Emoji images
+├── emoji_reactor.py    
+├── requirements.txt    
+├── README.md          
+└── images/            
     ├── smile.jpg
     ├── plain.png
     └── air.jpg
 
 ## 👨‍💻 Author
-Dianka
 
+Dianka
 GitHub: @sunastreo
 
 
